@@ -1,0 +1,54 @@
+*{ font-weight: bold;
+font-size:20px;}
+#order_now td{
+	font-size: 13px;
+  font-family: Times New Roman;
+  margin-top: 7px;
+  line-height: 22px;
+  /* margin-top: 18px; */
+  color: #333333;
+padding:5px;
+  
+	}
+	#order_now tr:nth-child(even) td:nth-child(odd){
+  background-color: #F7F7F7;
+ 
+  
+}
+#order_now td input{	
+	  font-family: Tahoma;
+  font-size: 15px;
+  line-height: 18px;
+  color: #143544;
+ margin:2px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 0px;
+  padding-left: 5px;
+  font-weight: normal;
+  width:277px;
+}
+#order_now td textarea{	
+	  font-family: Tahoma;
+  font-size: 15px;
+  line-height: 18px;
+   margin:2px;
+  color: #143544;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 0px;
+  padding-left: 5px;
+  font-weight: normal;
+  width:277px;
+}
+
+#order_now{
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 0px 0px 12px #999;
+  margin:10px;
+  
+}
+input w{width:60px;
+color:white;}
+
